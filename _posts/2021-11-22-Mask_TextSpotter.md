@@ -134,10 +134,10 @@ B_{i,j} = \begin{cases}
 $$
 - 이후 _Vatti clipping algorithm_을 원복
 
-$$
+$$\begin{matrix}
 \hat d = \hat A \times \hat r / \hat L\\
 \mathrm {Here,} \space \hat r = 3.0
-$$
+\end{matrix}$$
 
 ### 3.2. Hard RoI masking
 - 직사각형의 binary map $B$에서 각 text instance RoI feature와 크기가 동일한 polygon mask $M$을 생성

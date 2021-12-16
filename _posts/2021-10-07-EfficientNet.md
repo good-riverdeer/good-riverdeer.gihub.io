@@ -79,9 +79,10 @@ $\mathcal N = \mathcal F_k \bigodot...\bigodot\mathcal F_2\bigodot\mathcal F_1(X
     - 모든 layer들은 같은 convolution type을 갖는다.
     - 모든 stage들은 같은 아키텍처를 갖는다.
 - 따라서 아래와 같이 ConvNet을 정의할 수 있다.
-$$
-\mathcal N = \bigodot_{i=1...s}\mathcal F_i^{L_i}(X_{\left < H_i, W_i, C_i\right >})
-$$
+
+  $$
+  \mathcal N = \bigodot_{i=1...s}\mathcal F_i^{L_i}(X_{\left < H_i, W_i, C_i\right   >})
+  $$
   - $i$번째 stage에서 $\mathcal F_i$ layer가 $L_i$번 반복 -> $\mathcal F_i^{L_i}$
 
 **[@ 최적화문제 정의]**
