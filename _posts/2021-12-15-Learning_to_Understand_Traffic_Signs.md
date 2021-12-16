@@ -1,6 +1,6 @@
 ---
 title: "[paper-review] Learning to Understand Traffic Signs"
-date: 2021-12-16 12:10 +/-0900
+date: 2021-12-15 12:10 +/-0900
 math: true
 categories: paper-review
 tags: deep_learning ocr form_understanding traffic_sign_understanding CTSU_Dataset
