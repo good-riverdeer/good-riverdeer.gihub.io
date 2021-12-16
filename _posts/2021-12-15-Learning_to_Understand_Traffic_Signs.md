@@ -13,6 +13,7 @@ _개인적인 논문해석을 포함하고 있으며, 의역 및 오역이 남�
 ---
 
 ## 1. Introduction
+
 - 최근 교통 표지판(traffic sign)에서 텍스트나 기호를 인식하는 task의 눈에 띄는 발전이 있었음
 - 각각의 요소를 따로 인지하는 것은 교통 표지판을 이해하는 첫 단계에 불과
 - 본 논문에서는 **"traffic sign understanding"**이라는 새로운 task를 소개
@@ -23,6 +24,8 @@ _개인적인 논문해석을 포함하고 있으며, 의역 및 오역이 남�
      - `value`: 특정 내용 (예: 장소 이름, 도로 이름, 설명 단어)
      - 대부분의 교통 정보가 "indicative information + content"의 형태로 구성
 - 자율주행, positioning assistance, map correction과 같은 애플리케이션에 활용될 수 있음
+
+![img-description](https://user-images.githubusercontent.com/67779236/146305612-774c9b44-c657-4a14-9619-a4571d99b90a.png)
 
 **[@ Traffic sign understanding]**
 - Traffic sign understaning은 크게 세 가지 subtask로 구성
