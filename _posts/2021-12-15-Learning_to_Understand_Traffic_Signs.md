@@ -53,8 +53,7 @@ _개인적인 논문해석을 포함하고 있으며, 의역 및 오역이 남�
   - [Peng et al.](https://iopscience.iop.org/article/10.1088/1757-899X/768/7/072039/meta) proposed a two-stage cascade detection deep learning model, which used improved EAST for text line detection, and changed the size of feature maps to suit the text size of traffic signs.
   - [Hou et al.](https://ieeexplore.ieee.org/abstract/document/9113429) introduced an Attention Anchor Mechanism (AAM), which is used to weight the bounding boxes and anchor points to detect text in scene and traffic signs.
 - Traffic sign에 대한 공개 datasets는 주로 원형이나 삼각형 형태의 몇몇 간단한 형태의 분류에 대해서만 존재했음
-  - German Traffic Sign Recognition Benchmark - [citation](Man vs.
-computer: Benchmarking machine learning algorithms for traffic sign recognition)
+  - German Traffic Sign Recognition Benchmark - [citation](https://www.sciencedirect.com/science/article/pii/S0893608012000457)
   - DFG Traffic Sign Data Set - [citation](https://ieeexplore.ieee.org/abstract/document/8709983)
   - Chinese Traffic Sign Database (CTSD) - [citation](https://ieeexplore.ieee.org/abstract/document/7296660)
   - 위 데이터셋들은 복잡한 교통 표지판 속 요소들 사이의 관계에 대한 정보가 없음
