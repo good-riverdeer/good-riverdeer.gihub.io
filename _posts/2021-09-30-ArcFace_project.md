@@ -1,5 +1,5 @@
 ---
-title: "[project-review] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"
+title: "[project-review] ArcFace를 활용한 한국인 안면 인식"
 date: 2021-09-30 12:20 +/-0900
 math: true
 categories: project-review
