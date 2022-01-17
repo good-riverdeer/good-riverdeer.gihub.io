@@ -3,7 +3,7 @@ title: "[paper-review] EfficientNet: Rethinking Model Scaling for Convolutional 
 date: 2021-10-07 20:48 +/-0900
 math: true
 categories: [paper-review, Computer Vision]
-tags: deep_learning cnn convolution efficientnet transfer_learning
+tags: deep_learning CNN convolution efficientnet transfer_learning
 ---
 
 [Tan, M., & Le, Q. (2019, May). Efficientnet: Rethinking model scaling for convolutional neural networks. _In International Conference on Machine Learning_ (pp. 6105-6114). PMLR.](https://arxiv.org/abs/1905.11946)

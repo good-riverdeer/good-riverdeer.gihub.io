@@ -3,7 +3,7 @@ title: "[paper-review] An Image is Worth 16x16 Words: Transformers for Image Rec
 date: 2021-08-10 12:20 +/-0900
 math: true
 categories: [paper-review, Computer Vision]
-tags: deep_learning vision_transformer ViT self-attention Transformer
+tags: deep_learning vision_transformer ViT self-attention transformer
 ---
 
 [Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. *arXiv preprint arXiv:2010.11929.*](https://arxiv.org/abs/2010.11929)
