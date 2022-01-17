@@ -2,8 +2,8 @@
 title: "[paper-review] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"
 date: 2021-08-27 12:20 +/-0900
 math: true
-categories: paper-review
-tags: deep_learning vision_transformer ViT self-attention Transformer swin_transformer
+categories: [paper-review, Computer Vision]
+tags: deep_learning vision_transformer ViT self-attention transformer swin_transformer
 ---
 
 [Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., ... & Guo, B. (2021). Swin transformer: Hierarchical vision transformer using shifted windows. _arXiv preprint arXiv:2103.14030._](https://arxiv.org/abs/2103.14030)

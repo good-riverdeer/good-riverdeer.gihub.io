@@ -2,7 +2,7 @@
 title: "[paper-review] Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting"
 date: 2021-11-22 18:20 +/-0900
 math: true
-categories: paper-review
+categories: [paper-review, Computer Vision]
 tags: deep_learning ocr scene_text segmentation
 ---
 

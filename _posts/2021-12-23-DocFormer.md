@@ -2,7 +2,7 @@
 title: "[paper-review] DocFormer: End-to-End Transformer for Document Understanding"
 date: 2021-12-23 13:20 +/-0900
 math: true
-categories: paper-review
+categories: [paper-review, Computer Vision]
 tags: deep_learning document_understanding multimodal transformer
 ---
 

@@ -2,7 +2,7 @@
 title: "[paper-review] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
 date: 2021-08-10 12:20 +/-0900
 math: true
-categories: paper-review
+categories: [paper-review, Computer Vision]
 tags: deep_learning vision_transformer ViT self-attention Transformer
 ---
 

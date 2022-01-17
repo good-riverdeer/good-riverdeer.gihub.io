@@ -2,7 +2,7 @@
 title: "[paper-review] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks"
 date: 2021-10-07 20:48 +/-0900
 math: true
-categories: paper-review
+categories: [paper-review, Computer Vision]
 tags: deep_learning cnn convolution efficientnet transfer_learning
 ---
 
