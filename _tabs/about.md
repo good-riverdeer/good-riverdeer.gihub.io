@@ -15,6 +15,13 @@ order: 4
   - `2021.9 ~ `
   - Dongguk Univ. Industrial & Systems Engineering
 
+## Conferences
+
+- 3D position estimation of drone and object based on QR code segmentation model for inventory management automation
+  - 2021 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)
+  - New York, USA
+  - `Oct 25-27 2021`
+
 ## Skills
 - Machine Learning / Deep Learning
   - Python, Tensorflow, Keras, and **Pytorch**
