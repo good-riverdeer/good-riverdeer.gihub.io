@@ -15,6 +15,11 @@ order: 4
   - `2021.9 ~ `
   - Dongguk Univ. Industrial & Systems Engineering
 
+## Journals
+- Mixup Based Cross-Consistency Training for Named Entity Recognition
+  - Applied Sciences
+  - [paper](https://doi.org/10.3390/app122111084)
+
 ## Conferences
 
 - 3D position estimation of drone and object based on QR code segmentation model for inventory management automation
@@ -32,3 +37,6 @@ order: 4
   - Object detection
   - Semantic Segmentation
   - Optical Character Recognition (OCR)
+- Natural Language Processing
+  - Named Entity Recognition
+  - Emotion Recognition
