@@ -12,7 +12,7 @@ order: 4
   - `2016.3 ~ 2021.8`
   - Dongguk Univ. Industrial & Systems Engineering
 - **M.S. Student**
-  - `2021.9 ~ `
+  - `2021.9 ~ 2023.2`
   - Dongguk Univ. Industrial & Systems Engineering
 
 ## Journals
